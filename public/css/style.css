@@ -1,0 +1,24 @@
+h2{
+    height: 60px;
+    width: 100%;
+    background-color: aqua;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 60px;
+}
+div{
+    height: 60px;
+    width: 100%;
+    background-color: bisque;
+    position: fixed;
+    top: 0;
+    left: 0;
+    text-align: center;
+
+}
+a{
+    margin: 50px;
+    text-decoration: none;
+    font-size: 30px;
+    color: brown;
+}
